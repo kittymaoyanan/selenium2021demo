@@ -1,0 +1,28 @@
+<inputParameter>
+  <inputGroup>
+    <name>输入组</name>
+    <dpMethodName>dp_15167_1</dpMethodName>
+    <loop>
+      <inputValue>
+        <name>inputid_268863552_0</name>
+        <refer>用户名--0</refer>
+      </inputValue>
+      <inputValue>
+        <name>inputid_268863552_1</name>
+        <refer>密码--0</refer>
+      </inputValue>
+    </loop>
+  </inputGroup>
+  <value>
+    <value>qqqq1111</value>
+    <desc>密码</desc>
+    <sequence>0</sequence>
+    <key>密码--0</key>
+  </value>
+  <value>
+    <value>91320583718677707R</value>
+    <desc>用户名</desc>
+    <sequence>0</sequence>
+    <key>用户名--0</key>
+  </value>
+</inputParameter>

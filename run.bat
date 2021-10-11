@@ -1,0 +1,1 @@
+mvn clean test  -Dmaven.clean.failOnError=false &&  allure generate target/allure-results -o allure-report --clean

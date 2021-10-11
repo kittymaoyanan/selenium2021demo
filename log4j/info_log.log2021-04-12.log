@@ -1,0 +1,19 @@
+2021-04-12 09:56:41  [ main:0 ] - [ INFO ]  I am in onStart method longceforweb
+2021-04-12 09:56:41  [ main:797 ] - [ INFO ]  read input.xml finished
+2021-04-12 09:56:48  [ main:7386 ] - [ INFO ]  I am in onTestStart method testCase2 start
+2021-04-12 09:56:49  [ main:8291 ] - [ INFO ]  通过XPATH方式定位到元素：/html/body/div/div[1]/div/div[2]/div/span[3]点击：
+2021-04-12 09:56:52  [ main:11598 ] - [ INFO ]  通过ID方式定位到元素：username输入值：91320583718677707R
+2021-04-12 09:56:55  [ main:14088 ] - [ INFO ]  通过ID方式定位到元素：password输入值：qqqq1111
+2021-04-12 09:56:56  [ main:15041 ] - [ INFO ]  通过XPATH方式定位到元素：/html/body/div[1]/div[5]点击：
+2021-04-12 09:57:02  [ main:21338 ] - [ INFO ]  通过XPATH方式定位到元素：//div[@class='I123-category-check']点击：
+2021-04-12 09:57:03  [ main:22235 ] - [ INFO ]  通过XPATH方式定位到元素：//div[contains(text(),'考核评分')]点击：
+2021-04-12 09:57:04  [ main:23854 ] - [ INFO ]  通过XPATH方式定位到元素：//span[@class='E123-tab-item']点击：
+2021-04-12 09:57:05  [ main:24802 ] - [ INFO ]  通过XPATH方式定位到元素：//a[contains(text(),'添加')]点击：
+2021-04-12 09:57:07  [ main:26249 ] - [ INFO ]  通过XPATH方式定位到元素：//i[contains(text(),'')]点击：
+2021-04-12 09:57:08  [ main:27264 ] - [ INFO ]  通过XPATH方式定位到元素：//input[@id='yearCheck']点击：
+2021-04-12 09:57:09  [ main:28285 ] - [ INFO ]  通过XPATH方式定位到元素：//li[@class='layui-this']点击：
+2021-04-12 09:57:10  [ main:29245 ] - [ INFO ]  通过XPATH方式定位到元素：//span[@class='laydate-btns-confirm']点击：
+2021-04-12 09:57:13  [ main:32202 ] - [ INFO ]  通过XPATH方式定位到元素：//span[contains(text(),'奥灶馆有限公司南京分公司')]点击：
+2021-04-12 09:57:14  [ main:33149 ] - [ INFO ]  通过XPATH方式定位到元素：//a[@id='saved']点击：
+2021-04-12 09:57:16  [ main:35515 ] - [ INFO ]  I am in onTestSuccess method testCase2 succeed
+2021-04-12 09:57:16  [ main:35516 ] - [ INFO ]  Screenshot captured for test_draw case:testCase2
